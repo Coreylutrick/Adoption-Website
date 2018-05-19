@@ -1,0 +1,12 @@
+.petImg{
+  width: 70%;
+}
+
+.pet{
+  border: 3px solid black;
+  margin-top: 10px;
+}
+
+.name{
+  background-color: grey;
+}
